@@ -10,3 +10,4 @@ gcloud config list project
 Enable Cloud Profiler API
 
 Get a program to profile
+go get -u github.com/GoogleCloudPlatform/golang-samples/profiler/profiler_quickstart
