@@ -15,3 +15,14 @@ go get -u github.com/GoogleCloudPlatform/golang-samples/profiler/profiler_quicks
 
 Profile the code
 profiler_quickstart
+
+2018/06/19 20:38:18 profiler has started
+2018/06/19 20:39:00 successfully created profile CPU
+2018/06/19 20:39:11 start uploading profile
+2018/06/19 20:40:23 successfully created profile CPU
+2018/06/19 20:40:33 start uploading profile
+2018/06/19 20:41:15 successfully created profile CPU
+2018/06/19 20:41:25 start uploading profile
+2018/06/19 20:41:45 successfully created profile CPU
+...
+
