@@ -34,3 +34,14 @@ Start the Profiler interface
 
 fllow the video
 Selecting Profiles
+The interface offers an array of controls for exploring the profiling data. At the top of the interface, there are time controls, so you can examine data for the time range you choose.
+
+Below that are options choosing the set of profile data to use:
+
+Service is for selecting the origin of the profiled data, useful if you are profiling several different applications.
+Profile type lets you choose the kind of profile data to display.
+Zone name and Version let you restrict display to data from Compute Engine zones or versions of the application.
+Just below the selectors for Service, Profile, etc. is the filter selector. Filters allow you to refine how the graph displays data. In the screenshot above, the CPU time filter is on, so all the CPU time data is displayed.
+
+
+Exploring the data
