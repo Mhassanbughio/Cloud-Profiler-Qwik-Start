@@ -31,3 +31,6 @@ The program will continue to emit these messages while it runs.
 Let 2-3 profiles get created, then continue with the lab.
 
 Start the Profiler interface
+
+fllow the video
+Selecting Profiles
