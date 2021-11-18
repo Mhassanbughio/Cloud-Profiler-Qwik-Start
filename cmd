@@ -26,3 +26,7 @@ profiler_quickstart
 2018/06/19 20:41:45 successfully created profile CPU
 ...
 
+The program will continue to emit these messages while it runs.
+
+Let 2-3 profiles get created, then continue with the lab.
+
