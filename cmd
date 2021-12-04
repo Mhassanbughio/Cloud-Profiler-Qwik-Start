@@ -42,6 +42,8 @@ fllow the video
 Selecting Profiles
 The interface offers an array of controls for exploring the profiling data. At the top of the interface, there are time controls, so you can examine data for the time range you choose.
 
+##########################################################################
+
 Below that are options choosing the set of profile data to use:
 
 Service is for selecting the origin of the profiled data, useful if you are profiling several different applications.
